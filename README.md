@@ -1,0 +1,1 @@
+In this program, we store the number in num and find the square root using the ** exponent operator. This program works for all positive real numbers. But for negative or complex numbers, it can be done as follows.
